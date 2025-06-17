@@ -70,20 +70,6 @@ A full-stack web application for renting vehicles online. Users can browse and b
 
 ---
 
-## 📂 Folder Structure
-
-go-rental/
-├── client/
-│ ├── user/ # User-facing React app
-│ ├── renter/ # Renter dashboard
-│ └── admin/ # Admin dashboard
-├── server/
-│ ├── controllers/ # Route controllers
-│ ├── models/ # Mongoose models
-│ ├── routes/ # Express routes
-│ ├── middleware/ # Auth and validation
-│ ├── uploads/ # Uploaded files (images/docs)
-│ └── index.js # Entry point
 
 
 
